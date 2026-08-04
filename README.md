@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-161b22?style=flat-square&logo=telegram&logoColor=34d399" alt="Telegram"/></a>
-<a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=818cf8" alt="LinkedIn"/></a>
+<a href="https://t.me/llladnooo"><img src="https://img.shields.io/badge/Telegram-161b22?style=flat-square&logo=telegram&logoColor=34d399" alt="Telegram"/></a>
+<a href="https://www.linkedin.com/in/grigoriy-mansurov-7327983b9"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=818cf8" alt="LinkedIn"/></a>
 <a href="https://pockets-money.ru"><img src="https://img.shields.io/badge/pockets--money.ru-161b22?style=flat-square&logo=vercel&logoColor=a78bfa" alt="Website"/></a>
 
 </div>
@@ -77,14 +77,14 @@ Frontend-разработчик, **4+ года** в продакшене: от �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=9ca3af&border_radius=10" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true&background=0D1117&ring=818CF8&fire=34D399&currStreakLabel=A78BFA&border_radius=10" alt="Streak Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=llladno&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=9ca3af&border_radius=10" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=llladno&hide_border=true&background=0D1117&ring=818CF8&fire=34D399&currStreakLabel=A78BFA&border_radius=10" alt="Streak Stats" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=9ca3af&border_radius=10" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llladno&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=9ca3af&border_radius=10" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/llladno/llladno/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
