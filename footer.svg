@@ -1,0 +1,24 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#171225"/>
+      <stop offset="100%" stop-color="#0b0f19"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0.5"/>
+    </linearGradient>
+    <style>
+      .txt { font-family: ui-monospace, 'Fira Code', monospace; fill: #6b7280; font-size: 15px; }
+      .wave { animation: drift 10s ease-in-out infinite; }
+      @keyframes drift { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-24px); } }
+    </style>
+  </defs>
+  <rect width="1200" height="140" fill="url(#fBg)"/>
+  <path class="wave" fill="url(#waveGrad)" opacity="0.35"
+    d="M0,40 C150,90 300,0 450,40 C600,80 750,10 900,40 C1050,70 1150,20 1200,40 L1200,0 L0,0 Z"/>
+  <path class="wave" fill="url(#waveGrad)" opacity="0.55"
+    d="M0,20 C150,60 300,0 450,25 C600,55 750,5 900,25 C1050,45 1150,10 1200,25 L1200,0 L0,0 Z"/>
+  <text x="600" y="95" text-anchor="middle" class="txt">спасибо, что заглянули — до встречи в коммитах ✦</text>
+</svg>
